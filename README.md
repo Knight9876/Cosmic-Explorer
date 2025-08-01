@@ -119,8 +119,5 @@ npx eas build --platform android --profile production</code></pre>
   <h2>🌠 Contributions</h2>
   <p>Pull requests and feedback are welcome! Feel free to fork the repo and contribute to Cosmic Explorer.</p>
 
-  <h2>📄 License</h2>
-  <p>MIT License</p>
-
 </body>
 </html>
