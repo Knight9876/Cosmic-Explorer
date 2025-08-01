@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Cosmic Explorer</title>
 </head>
 <body style="font-family: 'Segoe UI', sans-serif; background-color: #0a0a0a; color: #f0f0f0; line-height: 1.6; padding: 2rem;">
 
@@ -95,9 +94,6 @@ npx eas build --platform ios --profile production
 
   <h2 style="color: #f9f871;">🌠 Contributions</h2>
   <p>Pull requests and feedback are welcome! Feel free to fork the repo and contribute to Cosmic Explorer.</p>
-
-  <h2 style="color: #f9f871;">📄 License</h2>
-  <p>MIT License</p>
 
 </body>
 </html>
